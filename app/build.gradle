@@ -105,6 +105,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-database:16.0.5'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
+
 }
 
 apply plugin: 'com.google.gms.google-services'
